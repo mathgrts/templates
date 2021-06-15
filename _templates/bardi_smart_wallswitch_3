@@ -6,11 +6,12 @@ type: Switch
 standard: eu
 link: https://bardi.co.id/product-detail/?id=170
 image: https://bardi.co.id/wp-content/uploads/2019/03/Wifi-Controlled-Smart-WallSwitch-3-Horizontal.jpg
-template: '{"NAME":"BARDI 3 Gang","GPIO":[56,57,157,19,23,18,0,0,52,21,58,22,17],"FLAG":0,"BASE":18}' 
+template: '{"NAME":"Bardi Wall 3Gang","GPIO":[576,321,0,34,226,33,0,0,320,224,322,225,32,0],"FLAG":0,"BASE":18}' 
 link2: 
 ---
 
 regular tuya convert process
+note: The template above has some issue with the light indicator button no 1, so I edited it and now it's working 100% like the original product, I have confirmed it
 
 
 
